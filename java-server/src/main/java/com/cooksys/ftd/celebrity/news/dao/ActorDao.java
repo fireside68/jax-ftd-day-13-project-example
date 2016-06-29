@@ -1,5 +1,13 @@
 package com.cooksys.ftd.celebrity.news.dao;
 
-public class ActorDao {
+import java.util.List;
+
+import com.cooksys.ftd.celebrity.news.model.Actor;
+
+public class ActorDao extends AbstractDao {
+		
+	public List<Actor> indexActors() {
+		return null;
+	}
 
 }
