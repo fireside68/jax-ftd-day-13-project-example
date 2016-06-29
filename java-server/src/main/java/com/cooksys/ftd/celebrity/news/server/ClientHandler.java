@@ -14,8 +14,7 @@ public class ClientHandler implements Runnable {
 	
 	private ActorDao actorDao;
 	private UserActorDao userActorDao;
-	private UserDao userDao;
-	
+	private UserDao userDao;	
 
 	@Override
 	public void run() {
