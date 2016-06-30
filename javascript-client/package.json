@@ -30,6 +30,7 @@
   },
   "dependencies": {
     "bcryptjs": "^2.3.0",
+    "mancy": "^3.0.0-1",
     "vorpal": "^1.11.2"
   }
 }
